@@ -43,8 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Why'd You Only Call Me When You're High",
-            artist: "Arctic Monkeys",
+            title: "Penélope",
+            artist: "Diego Torres",
             src: "song.mp3", 
             lyrics: `Penélope
 Con su bolso de piel marrón
