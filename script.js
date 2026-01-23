@@ -46,57 +46,66 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Why'd You Only Call Me When You're High",
             artist: "Arctic Monkeys",
             src: "song.mp3", 
-            lyrics: `El espejo me dice que ya es hora de irme a casa
-            Pero no quiero, porque no estás conmigo
-            Al llegar creí verte alejándote
-            Con los zapatos en la mano
-            Pensé que otra vez solo lo había imaginado
-            Que nos cruzábamos por casualidad
-            Ahora son las tres de la mañana
-            Y trato de hacerte cambiar de opinión
-            Te dejé un montón de llamadas perdidas
-            Y a mi mensaje me respondes
-            ¿Por qué solo me llamas cuando estás drogado?
-            Hola, ¿por qué solo me llamas cuando estás drogado?
-            En un lugar más oscuro, repitiendo las mismas estupideces
-            Necesito alguien que esté conmigo, ¿saldrás esta noche?
-            Cada vez es más difícil que me escuches
-            Cuanto más apuro el coche
-            Soy incapaz de decidir bien
-            Y solo se me ocurren ideas de mierda
-            Ahora son las tres de la mañana
-            Y trato de hacerte cambiar de opinión
-            Te dejé un montón de llamadas perdidas
-            Y a mi mensaje me respondes
-            ¿Por qué solo me llamas cuando estás drogado?
-            ¿Por qué solo me llamas cuando estás...?
-            Hola, ¿por qué solo me llamas cuando estás drogado?
-            No te veo por ningún lado, me pregunto dónde estarás
-            Siento que se me acaba el tiempo
-            No encontré lo que esperaba encontrar
-            Dijiste que mañana madrugas
-            Que te ibas a acostar temprano
-            Y ya me estás aburriendo, nena
-            ¿Por qué solo me llamas cuando estás drogado?
-            ¿Por qué solo me llamas cuando estás drogado?
-            ¿Por qué solo me llamas cuando estás drogado?
-            ¿Por qué solo me llamas cuando estás drogado?
-            ¿Por qué solo me llamas cuando estás drogado?`,
-            meaning: `¿Alguna vez has contestado una llamada a las tres de la mañana sabiendo perfectamente que al otro lado hay alguien que solo te recuerda cuando las drogas le aflojan la lengua y le bajan los estándares? ¿Cuántas veces has permitido que te usen como pañuelo desechable para sus bajones, solo para que al día siguiente te ignoren como si fueras un error de borracho?
+            lyrics: `Penélope
+Con su bolso de piel marrón
+Y sus zapatos de tacón
+Y su vestido de domingo
+Penélope
+Se sienta en un banco del andén
+Y espera que llegue el primer tren
+Meneando el abanico
+Dicen en el pueblo que un caminante paró
+Su reloj
+Una tarde de primavera
+Adiós, amor mío, no me llores, volveré
+Antes que
+De los sauces caigan las hojas
+Piensa en mí, volveré
+Por ti
+Pobre infeliz
+Se paró tu reloj infantil
+Una tarde plomiza de abril
+Cuando se fue tu amante
+Se marchitó
+En tu huerto hasta la última flor
+No hay ni un sauce en la calle mayor
+Para Penélope
+Penélope
+Tristeza a fuerza de esperar
+Tus ojos parecen brillar
+Si un tren silba a lo lejos
+Penélope
+Uno tras otro los ve pasar
+Mira sus caras, les oye hablar
+Para ella son muñecos
+Dicen en el pueblo que el caminante volvió
+La encontró
+En su banco de pino verde
+La llamó: "Penélope, mi amante fiel, mi paz
+Deja ya
+De tejer sueños en tu mente"
+"Mírame, soy tu amor
+Regresé"
+Le sonrió
+Con los ojos llenitos de ayer
+"No era así su cara ni su piel
+Tú no eres quien yo espero..."
+Y se quedó
+Con su bolso de piel marrón
+Y sus zapatitos de tacón
+Sentada en la estación
+Sentada en la estación`,
+            meaning: `¿Alguna vez has sentido que el tiempo se detiene en un recuerdo, como si tu vida entera estuviera atrapada en esa versión idealizada de alguien que ya no existe, y cada día que pasa te roba un pedazo más de cordura? ¿Cuántas noches has pasado revisando fotos viejas, aferrándote a esa imagen de juventud y pasión, solo para darte cuenta de que la realidad te ha dejado sentada en un banco eterno, esperando un tren que nunca llega?
 
-            Porque eso es exactamente lo que pasa aquí: un tipo (o tipa) que solo te busca cuando está tan colocado que hasta tú le pareces buena idea. Cuando está sobrio, ni te registra. Eres el plan Z, el relleno de un vacío que solo aparece cuando la realidad le pega fuerte y necesita a alguien que le diga “sí, todo bien” aunque sepa que es mentira.
+Esa es la puñalada profunda de esta canción: la melancolía brutal de aferrarte a un amor que se congeló en el pasado, enloqueciéndote poco a poco porque no puedes soltar esa versión romántica de la persona que amabas cuando todo era fresco, vibrante y lleno de promesas. Pero el tiempo no espera, wey, y mientras tú te quedas ahí, estancada, el mundo gira y esa persona cambia, se arruga, se transforma en algo que ya no encaja en tu sueño perfecto. Es como si tu reloj se hubiera parado en esa tarde de primavera, y ahora vives en un loop de nostalgia que te chupa la vida.
 
-            Imagínate la escena real: estás intentando dormir, el teléfono vibra, lo miras y ahí está su nombre. Contestas porque todavía queda algo de esa ilusión tonta que te dice “quizá esta vez sea diferente”. Habla arrastrando las palabras, te dice que te extraña muchísimo, que deberías verte ya, que eres lo único que le hace sentido en ese momento. Tú hablas, te ilusionas un rato, hasta sientes mariposas. Y luego llega el amanecer y… silencio total. Ni un mensaje de “gracias por escucharme”, ni un “¿cómo estás?”, nada. Desaparece hasta la próxima crisis química.
+Piensa en esto, real y crudo: imagínate que eres esa mujer que conoció a su amor en los veintes, cuando él era todo fuego y aventuras, con esa sonrisa que iluminaba habitaciones enteras y un toque que te hacía sentir invencible. Se va, promete volver, y tú esperas. Pasan años: tú envejeces sola, con arrugas que marcan cada día de ausencia, el jardín de tu vida se seca, no queda ni una flor. Y un día regresa, pero ya no es él. Su cara está marcada por el tiempo, su piel no brilla como antes, sus ojos llevan el peso de otras vidas. Lo miras y piensas: "Este no es mi amor, este es un extraño que se parece a un fantasma". Le sonríes con ojos llenos de ayer, pero rechazas la realidad porque prefieres la ilusión que te mantiene viva, aunque te esté matando por dentro. Quedas ahí, sentada en la estación de tu propia mente, con tu bolso viejo y tus zapatos que ya no caminan a ningún lado, porque soltar significa admitir que perdiste.
 
-            Eso no es interés, eso es ser el juguete de alguien que no tiene los huevos de enfrentar sus propios demonios sin arrastrarte a ti. Es patético de su parte y, aunque duela admitirlo, también es patético de tu parte seguir contestando. Porque cada vez que lo haces le confirmas que puede tratarte como basura y tú seguirás ahí, disponible para cuando le dé la gana.
+O toma un ejemplo más cotidiano y triste: esa relación que terminó hace una década, pero tú sigues comparando a todos con cómo era él en su mejor momento. Recuerdas sus chistes tontos, esa forma de besarte que te derretía, y cada nuevo intento de amor falla porque nadie mide up a ese ideal juvenil. Te encierras, evitas salir, y poco a poco te conviertes en una versión de Penélope: triste a fuerza de esperar, viendo pasar trenes de oportunidades que para ti son solo muñecos sin alma. Tus amigos te dicen "muévete, wey, ya pasó", pero tú insistes en que volverá esa chispa, que algún día aparecerá alguien que reviva ese recuerdo. Y mientras, te enloqueces: ansiedad que no te deja dormir, depresión que te clava en la cama, una obsesión que te aleja de la vida real. Es patético y humano a la vez, porque aferrarse duele menos que soltar al principio, pero al final te deja hueca.
 
-            Tú no eres el premio de consolación de nadie. No eres la muleta emocional de un adicto funcional que solo sabe querer cuando está fuera de sí. Mereces a alguien que te busque a las once de la mañana porque de verdad le importas, no porque necesita un cuerpo caliente para no sentirse solo en su mierda.
+Pero escúchame bien, porque aquí va la verdad que duele pero libera: tú no eres una pobre infeliz condenada a esa estación. Ese aferrarte no es lealtad, es autodestrucción disfrazada de romanticismo. Mereces más que vivir de migajas de memoria. Tú vales una vida plena, no un reloj parado. Imagina soltar: borrar esas fotos, quemar las cartas mentales, y darte cuenta de que el amor real no se congela en el pasado; evoluciona, crece, y si no lo hace, no era amor, era solo una ilusión que te usó como ancla.
 
-            Si estás en ese ciclo, párate un segundo y sé honesto contigo: ¿de verdad quieres seguir siendo la opción fácil de alguien que ni siquiera te elige cuando está en sus cinco sentidos? Bloquéalo, bórralo, déjalo gritarle al vacío la próxima vez que esté volando. Duele al principio, claro, porque duele soltar la esperanza de que “algún día cambie”. Pero esa esperanza es veneno puro.
-
-            Tú vales demasiado como para ser el entretenimiento nocturno de un cobarde emocional. Cuando dejes de contestar, vas a sentir un vacío raro, pero después va a llegar el alivio más grande del mundo: darte cuenta de que tu tiempo, tu cariño y tu atención son demasiado buenos para regalarlos a quien solo los quiere cuando está hecho mierda.
-
-            Tú puedes vivir sin esas migajas. Y cuando lo hagas, vas a abrirle la puerta a alguien que te llame porque realmente te quiere, no porque las drogas le hicieron bajar la guardia. Ámate lo suficiente para mandarlo a la verga de una vez. Te lo mereces todo, no las sobras de nadie.`
+Tú tienes fuerza para levantarte de ese banco, wey. Has sobrevivido años de espera, eso ya te hace resiliente como la mierda. Valida eso: tu corazón latió por algo puro una vez, y eso no se borra, pero no te define. Eres más que un recuerdo; eres presente, con arrugas que cuentan historias de supervivencia, ojos que aún pueden brillar por algo nuevo. Deja de tejer sueños en tu mente y empieza a caminar. El próximo tren podría ser tuyo, no el de un fantasma. Ámate lo suficiente para elegir la realidad sobre la melancolía – duele como el demonio al principio, pero al final te devuelve la libertad. Tú puedes, porque ya has esperado lo suficiente; ahora es tiempo de vivir.`
         }
     ];
 
